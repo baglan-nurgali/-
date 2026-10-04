@@ -31,7 +31,7 @@ Part 3: Combined Project
 
 Task 4: Responsive Portfolio Page
 Description: Developed a fully functional portfolio page combining a Bootstrap navbar, a 12-column grid card layout, a sidebar with personal info, a footer, and custom media queries.
-<img width="881" height="565" alt="image" src="https://github.com/user-attachments/assets/259427f5-474f-4f16-aaef-178f3657fb9b" />
+<img width="1610" height="397" alt="image" src="https://github.com/user-attachments/assets/f7e4b18b-5a28-4526-9d2a-29c2dedbd532" />
 
 
 Summary of Work Process
